@@ -1,0 +1,10 @@
+
+
+
+Nombre: Alfred M11
+
+Objetivo: Mandar una alerta con el link de google meet.
+Obetivo 2: Recordar las tareas del día.
+
+Descripción: Este es un bot creado por Carlos Alvarez, el arte que lo acompaña está hecho por Tayra. Este bot fue hecho para facilitar el acceso a las clases de meet.
+
